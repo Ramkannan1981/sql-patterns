@@ -442,7 +442,7 @@ Or open `sql_patterns.sql` in your favorite SQL editor and execute queries indiv
 
 ---
 
-## Interview talking points
+## Key Pointers
 
 - **"Window functions are essential for time-series, ranking, and latest-record problems."**
 - **"CTEs make complex queries readable and maintainable by separating business logic into steps."**

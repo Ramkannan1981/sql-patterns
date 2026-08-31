@@ -1,6 +1,6 @@
 # SQL Patterns 
 
-A comprehensive collection of intermediate to advanced SQL patterns commonly asked in data engineering and FDE's in developing Agentic AI 
+A comprehensive collection of intermediate to advanced SQL patterns used  in data engineering and FDE's in developing Agentic AI 
 
 ## Patterns included
 

@@ -42,4 +42,4 @@ At the data engineering / FDE level, you'll encounter these patterns constantly:
 - **Date filtering** — time-series analysis, retention cohorts
 - **Recursive CTEs** — hierarchical data, organizational structures
 
-Mastering these patterns is a baseline expectation for L6-level data work.
+

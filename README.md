@@ -1,7 +1,7 @@
 # SQL Patterns 
 
 A comprehensive collection of intermediate to advanced SQL patterns used  in data engineering and FDE's in developing Agentic AI 
-Business question → SQL pattern → result → Agentic AI / data workflow
+
 
 ## Patterns included
 
@@ -16,7 +16,7 @@ Business question → SQL pattern → result → Agentic AI / data workflow
 9. **GROUP BY with multiple aggregations** — rich summaries
 10. **Recursive CTEs** — hierarchical data and sequences
 
-## Data Flow
+## Data Flow - Business question → SQL pattern → result → Agentic AI / data workflow
                          BUSINESS QUESTION
                                 │
               ┌─────────────────┼─────────────────┐
